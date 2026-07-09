@@ -15,14 +15,14 @@ so The walking movement is built directly into the physical design of the robot,
 
 ----------------------------------------------------
 
-## 🛠️ The Core Components (From my PDF)
+# The Core Components
 
-Here is a quick breakdown of what I have designed and documented in the project file[cite: 1]:
+Here is a quick breakdown of what I have designed and documented in the project file:
 
-* **1. Body & Frame:** A solid central chassis that safely holds the motor in the middle and spreads the weight evenly to both sides[cite: 1].
-* **2. Simple Movement (1 DoF):** The robot only needs **1 Degree of Freedom** per side[cite: 1]. This means the legs follow a fixed path, allowing the robot to walk using cheap, everyday DC motors instead of 12 expensive servos[cite: 1].
-* **3. Calculating the Motor Force (Torque):** I included the engineering formula ($T_{total} = m \cdot g \cdot L_{max}$) to calculate exactly how strong our motor needs to be to lift the robot's weight against gravity[cite: 1].
-* **4. Balance:** The robot relies on **Static Stability**, meaning it is designed to always keep enough feet on the ground so it never tips over while moving[cite: 1].
+* **1. Body & Frame:** A solid central chassis that safely holds the motor in the middle and spreads the weight evenly to both sides.
+* **2. Simple Movement (1 DoF):** The robot only needs **1 Degree of Freedom** per side. This means the legs follow a fixed path, allowing the robot to walk using cheap, everyday DC motors instead of 12 expensive servos.
+* **3. Calculating the Motor Force (Torque):** I included the engineering formula ($T_{total} = m \cdot g \cdot L_{max}$) to calculate exactly how strong our motor needs to be to lift the robot's weight against gravity.
+* **4. Balance:** The robot relies on **Static Stability**, meaning it is designed to always keep enough feet on the ground so it never tips over while moving.
 
 ----------------------------------------------------
 
