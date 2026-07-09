@@ -28,14 +28,14 @@ Here is a quick breakdown of what I have designed and documented in the project 
 
 # Challenges I am Solving
 Building a mechanical robot comes with natural engineering puzzles that I am working on:
-1. Wobbly Legs (Backlash): Because there are many connecting pins, any tiny looseness makes the legs shake. I solve this by using high-precision 3D printing or laser cutting.
-2. Friction: Many moving parts cause rubbing, which slows down the motor. I plan to use tiny bearings to keep it smooth.
-3. Steering: Running everything on one motor means it only walks in a straight line. To let it turn, I will eventually upgrade it to use two independent motors (one for the left legs, one for the right).
+1. **Wobbly Legs (Backlash):** (Backlash): Because there are many connecting pins, any tiny looseness makes the legs shake. I solve this by using high-precision 3D printing or laser cutting.
+2. **Friction:** Many moving parts cause rubbing, which slows down the motor. I plan to use tiny bearings to keep it smooth.
+3. **Steering:** Running everything on one motor means it only walks in a straight line. To let it turn, I will eventually upgrade it to use two independent motors (one for the left legs, one for the right).
 
 ----------------------------------------------------
 
 # Project Status
 - Create conceptual design and walking mechanism.
 - Calculate initial motor torque requirements.
-- 3D print/Laser cut the physical parts.
+- 3D print/Laser cut or simulation the physical parts.
 - Assemble and test the first walking steps!
